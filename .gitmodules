@@ -1,0 +1,3 @@
+[submodule "task3/task3/maven/secretsanta-generator"]
+	path = task3/task3/maven/secretsanta-generator
+	url = git@github.com:hkoti/docker.git
